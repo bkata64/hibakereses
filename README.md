@@ -1,0 +1,2 @@
+# hibakereses
+Közös hibakeresés
