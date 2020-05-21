@@ -39,14 +39,14 @@ De így is írhatom: [Önéletrajz](https://bkata64.github.io)
 
 ### Mi hiányzik még?
 
- 1 `Táblázat`
- 2 `Meg nem tudom`
+ 1. `Táblázat`
+ 2. `Meg nem tudom`
  
 No nézzünk akkor egy táblázatot:
 
-| Első oszlop | Második oszlop |
-| ___________ | ______________ |
-| Valami | Semmi |
-| Akármi | Bármi |
+ | Első oszlop | Második oszlop |
+ | ----------- | -------------- |
+ | Valami | Semmi |
+ | Akármi | Bármi |
 
 
