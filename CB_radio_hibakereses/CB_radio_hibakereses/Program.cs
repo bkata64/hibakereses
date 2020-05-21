@@ -21,6 +21,7 @@ namespace CB_radio_hibakereses
             StreamReader sr = new StreamReader("cb.txt");
             cbradio[] radio = new cbradio[500];
             int index = 0;
+            sr.ReadLine();
             while (!sr.EndOfStream)
             {
                 string sor = sr.ReadLine();
@@ -33,22 +34,23 @@ namespace CB_radio_hibakereses
             }
             sr.Close();
 
-            Console.WriteLine("3. feladat: Bejegyzések száma: {0}, db", index);
+            Console.WriteLine("3. feladat: Bejegyzések száma: {0} db", index);
 
-            bool 4bejegyzes = false;
+            bool bejegyzes4 = false;
             for (int i = 0; i < index; i++)
-            {
-                if (i.AdasDb == 4)
+            {                
+                if (radio[i].adasDb == 4)
                 {
-                    4bejegyzes = true;
-                    Console.WriteLine("Volt négy adást indító sofőr.");
+                    bejegyzes4 = true;                    
                     break;
                 }
-                else (4bejegyzes = false)
-                {
-                Console.WriteLine("Nem volt négy adást indító sofőr");
             }
+            if(bejegyzes4 == true)
+                Console.WriteLine("Volt négy adást indító sofőr.");
+            else             
+                Console.WriteLine("Nem volt négy adást indító sofőr");
+            
+            Console.ReadKey();
         }
     }
-}
 }

@@ -1,0 +1,7 @@
+C:\Users\szeszi-pc\Desktop\hibakereses\hibakereses\CB_radio_hibakereses\CB_radio_hibakereses\bin\Debug\CB_radio_hibakereses.exe.config
+C:\Users\szeszi-pc\Desktop\hibakereses\hibakereses\CB_radio_hibakereses\CB_radio_hibakereses\bin\Debug\CB_radio_hibakereses.exe
+C:\Users\szeszi-pc\Desktop\hibakereses\hibakereses\CB_radio_hibakereses\CB_radio_hibakereses\bin\Debug\CB_radio_hibakereses.pdb
+C:\Users\szeszi-pc\Desktop\hibakereses\hibakereses\CB_radio_hibakereses\CB_radio_hibakereses\obj\Debug\CB_radio_hibakereses.csprojAssemblyReference.cache
+C:\Users\szeszi-pc\Desktop\hibakereses\hibakereses\CB_radio_hibakereses\CB_radio_hibakereses\obj\Debug\CB_radio_hibakereses.csproj.CoreCompileInputs.cache
+C:\Users\szeszi-pc\Desktop\hibakereses\hibakereses\CB_radio_hibakereses\CB_radio_hibakereses\obj\Debug\CB_radio_hibakereses.exe
+C:\Users\szeszi-pc\Desktop\hibakereses\hibakereses\CB_radio_hibakereses\CB_radio_hibakereses\obj\Debug\CB_radio_hibakereses.pdb

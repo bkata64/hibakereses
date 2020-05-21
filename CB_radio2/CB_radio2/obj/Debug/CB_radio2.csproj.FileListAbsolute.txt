@@ -1,0 +1,7 @@
+C:\Users\szeszi-pc\Desktop\hibakereses\hibakereses\CB_radio2\CB_radio2\bin\Debug\CB_radio2.exe.config
+C:\Users\szeszi-pc\Desktop\hibakereses\hibakereses\CB_radio2\CB_radio2\bin\Debug\CB_radio2.exe
+C:\Users\szeszi-pc\Desktop\hibakereses\hibakereses\CB_radio2\CB_radio2\bin\Debug\CB_radio2.pdb
+C:\Users\szeszi-pc\Desktop\hibakereses\hibakereses\CB_radio2\CB_radio2\obj\Debug\CB_radio2.csprojAssemblyReference.cache
+C:\Users\szeszi-pc\Desktop\hibakereses\hibakereses\CB_radio2\CB_radio2\obj\Debug\CB_radio2.csproj.CoreCompileInputs.cache
+C:\Users\szeszi-pc\Desktop\hibakereses\hibakereses\CB_radio2\CB_radio2\obj\Debug\CB_radio2.exe
+C:\Users\szeszi-pc\Desktop\hibakereses\hibakereses\CB_radio2\CB_radio2\obj\Debug\CB_radio2.pdb
