@@ -27,3 +27,16 @@ A feladathoz szükséges készségek a csapatban (a csapat-munka eszközökön f
  - File olvasás és manipulálás szabadon választott programozói környezetben
  - Képek gyűjtése internetről
  - Dokumentáció készítése 
+
+### Ez egy alcím (h3)
+Ez az ITMP klub elérhetősége: <https://itmp.hu/>
+Így néz ki az én önéletrajzom: <https://bkata64.github.io>
+De így is írhatom: [Önéletrajz](https://bkata64.github.io)
+![Ez itt egy Lego-robot](LEGO_robot.png)
+
+### Mi hiányzik még?
+
+ - `Táblázat`
+ - `Meg nem tudom`
+ 
+
